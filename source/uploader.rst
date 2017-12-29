@@ -10,6 +10,14 @@
 ------------
 在Nuke和CGTeamWork中都已添加对应菜单
 
+.. figure:: uploader_cgtw.png
+
+  CGTeamWork菜单
+
+.. figure:: uploader_nuke_menu.png
+
+  Nuke菜单
+
 如果要独立启动
 
 在python中使用以下语句
@@ -19,10 +27,17 @@
   import wlf.uploader
   wlf.uploader.main()
 
+
 使用
 ----------------
 
-.. image:: uploader.png
+.. figure:: uploader.png
+
+  独立运行的上传工具
+
+.. figure:: uploader_nuke.png
+
+  在Nuke中运行的上传工具
 
 1. 将 :guilabel:`流程` 设为上传内容所属流程
 
@@ -48,6 +63,8 @@
 
 文件检查
 -------------------
+
+.. image:: uploader_error.png
 
 如果不是分配给当前用户的任务或者有其他问题,
 
