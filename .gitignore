@@ -1,0 +1,16 @@
+build/
+*.pyc
+*.spec
+
+# Virtual environment
+/.venv
+
+# vscode
+.vscode/
+
+# Bin folder
+/bin/
+
+# UML
+packages.png
+classes.png
