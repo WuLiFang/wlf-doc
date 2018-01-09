@@ -125,6 +125,9 @@ modindex_common_prefix = ['wlf.']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'WuLiFangwlfdoc'
 
+# -- Options for epub output ------------------------------------------
+
+epub_author = u'北京吾立方数码科技有限公司'
 
 # -- Options for LaTeX output ---------------------------------------------
 
