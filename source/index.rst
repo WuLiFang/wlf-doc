@@ -14,6 +14,7 @@ Welcome to WuLiFang/wlf's documentation!
   uploader
   reference
   licenses
+  changelog
 
 
 
